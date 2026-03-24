@@ -20,5 +20,47 @@
 - | Análisis Forense: Volatiliy Workbench, Autopsy
 - | Control de Versiones: Experiencia con GitHub
 
+---
+
 ## Mis Proyectos
-- | 
+![TransrodenSA](GithubImages/TransrodenProy.png)
+
+
+<table>
+  <tr>
+    <td>
+      <img src="GithubImages/TransrodenProy.png" width="700">
+    </td>
+    <td>
+      <h3>TransrodenSA</h3>
+      <p>
+        Sistema de gestión empresarial desarrollado para la administración de inventario,
+        empleados y reportes. Desarrollado con base de datos SQL y aplicación de escritorio.
+      </p>
+      <p>
+        <b>Tecnologías:</b> Java, SQL Server
+      </p>
+    </td>
+  </tr>
+</table>
+---
+<table>
+  <tr>
+    <td>
+      <img src="GithubImages/CyberworldProy.png" width="700">
+    </td>
+    <td>
+      <h3 style="color:#3fb950;">Cyberworld</h3>
+      <p>
+        Sistema de gestión empresarial desarrollado para la administración de inventario,
+        empleados y reportes. Desarrollado con base de datos SQL y aplicación de escritorio.
+      </p>
+      <p>
+        <b>Tecnologías:</b> Java, SQL Server
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h2 style="color:#58a6ff;">Sección Azul</h2>
+<p style="color:#3fb950;">Texto verde</p>
