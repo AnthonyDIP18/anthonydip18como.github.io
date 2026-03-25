@@ -10,7 +10,7 @@
 
 ---
 
-## Lenguajes y Herramientas
+# Lenguajes y Herramientas
 - | Lenguajes de Programación: Python, Java, JavaScript, C++, C# y Unity y FlutterFlow
 - | Desarrollo WEB: HTML, CSS y Node.js
 - | Bases de datos: MySQL, Oracle, SQL Server y Diagramas E-R
@@ -22,7 +22,7 @@
 
 ---
 
-## Mis Proyectos
+# Mis Proyectos
 <table width="1000">
   <tr>
     <td width="320">
