@@ -1,28 +1,29 @@
 <h5>anthonydip18como.github.io</h5>
 
-<h1 align="center" >Hola, soy Anthony</h1>
-<h2 align="center">Ingeniero en Sistemas Junior.</h3>
-<h4 align="center">Me entusiasma aprender y adquirir nuevos conocimientos constantemente
-<p style="color: #c9d1d9;">Actualmente estoy expandiendo mi conocimiento en Ciberseguridad.</p>
+<h1 align="center">Hello, I'm Anthony</h1>
+<h2 align="center">|Systems Engineer | Software Engineer|</h2>
+<h4 align="center">
+Passionate about learning and continuously expanding my knowledge.
+<p style="color: #c9d1d9;">Currently expanding my knowledge in Cybersecurity.</p>
 </h4>
-<h3 align="center">Desarrollo de Software | Bases de Datos | Automatización | </h3>
-<h5 align="center"> Contacto: AnthonyIbarrasPerez@gmail.com</h3>
+<h3 align="center">Software Development | Databases | Automation</h3>
+<h5 align="center">Contact: AnthonyIbarrasPerez@gmail.com</h5>
 
 ---
 
-# Lenguajes y Herramientas
-- | Lenguajes de Programación: Python, Java, JavaScript, C++, C# y Unity y FlutterFlow
-- | Desarrollo WEB: HTML, CSS y Node.js
-- | Bases de datos: MySQL, Oracle, SQL Server y Diagramas E-R
-- | Sistemas Operativos: Windows, Linux
-- | Metodologías: Agile, Scrum, Waterfall y Desarrollo de Historias de Usuarios
-- | TI y Auditorias: Conocimientos de documentación de TI y auditorias de Sistemas
-- | Análisis Forense: Volatiliy Workbench, Autopsy
-- | Control de Versiones: Experiencia con GitHub
+# Languages & Tools
+- | Programming Languages: Python, Java, JavaScript, C++, C#, Unity, and FlutterFlow
+- | Web Development: HTML, CSS, and Node.js
+- | Databases: MySQL, Oracle, SQL Server, and E-R Diagrams
+- | Operating Systems: Windows, Linux
+- | Methodologies: Agile, Scrum, Waterfall, and User Story Development
+- | IT & Auditing: Knowledge of IT documentation and Systems Auditing
+- | Digital Forensics: Volatility Workbench, Autopsy
+- | Version Control: Experience with GitHub
 
 ---
 
-# Mis Proyectos
+# My Projects
 <table width="1000">
   <tr>
     <td width="320">
@@ -31,11 +32,11 @@
     <td width="680">
       <h3>TransrodenSA</h3>
       <p>
-        Sistema de gestión empresarial desarrollado para la administración de inventario,
-        empleados y reportes. Desarrollado con base de datos SQL y aplicación de escritorio.
+        Business management system developed for inventory, employee, and report administration.
+        Built with SQL databases and desktop application architecture.
       </p>
       <p>
-        <b>Tecnologías:</b> CSS, PHP, C#, MySQL, SQL Server Management
+        <b>Technologies:</b> CSS, PHP, C#, MySQL, SQL Server Management
       </p>
     </td>
   </tr>
@@ -47,13 +48,13 @@
       <img src="GithubImages/CreacionSinLimitesProy.png" width="300">
     </td>
     <td width="680">
-      <h3>Tienda Creacion Sin Limites</h3>
+      <h3>Creacion Sin Limites Store</h3>
       <p>
-        Tienda Virtual de alquilieres de toldos, mesas y sillas para actividades. La tienda pose inicio de sesion,
-        para que los usuarios puedan apartar y solicitar el alquiler de una manera sencilla.
+        Virtual store for tent, table, and chair rentals for events. The platform includes login functionality,
+        allowing users to reserve and request rentals easily.
       </p>
       <p>
-        <b>Tecnologías:</b> Flutterflow, SQL, AndroidStudio
+        <b>Technologies:</b> FlutterFlow, SQL, Android Studio
       </p>
     </td>
   </tr>
@@ -65,13 +66,13 @@
       <img src="GithubImages/EmpleadosProy.png" width="300">
     </td>
     <td width="680">
-      <h3>Base de Datos de Tienda de Zapatos</h3>
+      <h3>Shoe Store Database</h3>
       <p>
-        Base de datos para gestionar una tienda de zapatos con control de los clientes, empleados,
-        productos, ventas, inventario, direcciones, telefonos y estados de los empleados.
+        Database designed to manage a shoe store, including customer, employee, product,
+        sales, inventory, addresses, phone numbers, and employee status management.
       </p>
       <p>
-        <b>Tecnologías:</b> MySQL, SQL Server Management, Diagramas ER
+        <b>Technologies:</b> MySQL, SQL Server Management, ER Diagrams
       </p>
     </td>
   </tr>
@@ -83,13 +84,13 @@
       <img src="GithubImages/PeliculasDBProy.png" width="300">
     </td>
     <td width="680">
-      <h3>Base de Datos de rentas de Peliculas</h3>
+      <h3>Movie Rental Database</h3>
       <p>
-        Base de datos para realizar un alquileres de peliculas con filtros de busqueda. El dashboard fue
-        desarrollado en Microsoft Power BI para visualizar y analizar información sobre películas y rentas.
+        Database for managing movie rentals with search filters. The dashboard was developed in Microsoft Power BI
+        to visualize and analyze movie and rental information.
       </p>
       <p>
-        <b>Tecnologías:</b> Microsoft SQL Server, Power BI, Diagramas ER
+        <b>Technologies:</b> Microsoft SQL Server, Power BI, ER Diagrams
       </p>
     </td>
   </tr>
@@ -103,11 +104,11 @@
     <td width="680">
       <h3>PacMan Java</h3>
       <p>
-        Se desarrollo el juego de PacMan en java completamente funcional. Este tiene un agregado de modo espectador
-        utilizando JSP donde se puede observar la partida principal.
+        Fully functional PacMan game developed in Java. Includes an additional spectator mode
+        using JSP, where users can observe the main gameplay.
       </p>
       <p>
-        <b>Tecnologías:</b> Java, Servlets/JSP
+        <b>Technologies:</b> Java, Servlets/JSP
       </p>
     </td>
   </tr>
@@ -121,12 +122,12 @@
     <td width="680">
       <h3>Cyberworld</h3>
       <p>
-        Juego de plataformas 2D donde el jugador avanza por niveles evitando obstáculos,
-        derrotando enemigos y recolectando objetos. Incluye sistema de físicas,
-        colisiones, animaciones y sistema de puntuación.
+        2D platform game where the player advances through levels while avoiding obstacles,
+        defeating enemies, and collecting items. Includes physics, collision detection,
+        animations, and a scoring system.
       </p>
       <p>
-        <b>Tecnologías:</b> Unity, C#, java
+        <b>Technologies:</b> Unity, C#, Java
       </p>
     </td>
   </tr>
@@ -138,16 +139,15 @@
       <img src="GithubImages/EeirieEnigmaProy.png" width="300">
     </td>
     <td width="680">
-      <h3>Eeirie Enigma</h3>
+      <h3>Eerie Enigma</h3>
       <p>
-        Juego 3D con movimiento en entorno tridimensional, control de cámara,
-        interacción con objetos, físicas, colisiones e interfaz de usuario.
+        3D game featuring movement in a three-dimensional environment, camera controls,
+        object interaction, physics, collision detection, and user interface systems.
       </p>
       <p>
-        <b>Tecnologías:</b> Unity / C# / Blender
+        <b>Technologies:</b> Unity / C# / Blender
       </p>
     </td>
   </tr>
 </table>
-
-
+```
